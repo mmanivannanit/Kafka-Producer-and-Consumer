@@ -1,0 +1,11 @@
+
+Downloaded Avro-tools-1.8.1.jar file
+
+avro-tools-1.8.1.jar 
+
+Created avro schema file(log.avsc)
+
+with the help of avro-tools-1.8.1.jar converted json to avro(log.avro) using the below command,
+
+java -jar avro-tools-1.8.1.jar fromjson --schema-file log.avsc /home/mani/Logs/logs1.json > /home/mani/Logs/log.avro
+

@@ -1,0 +1,29 @@
+{
+
+    "namespace": "avro",
+
+    "type": "record",
+
+    "name": "Logs",
+
+    "fields": [
+
+        {
+
+            "name": "type",
+
+            "type": "string"
+
+        },
+
+        {
+
+            "name": "timestamp",
+
+            "type": "string"
+
+        }
+
+    ]
+
+}
